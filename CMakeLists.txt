@@ -10,3 +10,7 @@ add_executable(day1
 add_executable(day2
         day2/day2.cpp
         shared/util.cpp)
+
+add_executable(day3
+        day3/day3.cpp
+        shared/util.cpp)
