@@ -6,3 +6,7 @@ set(CMAKE_CXX_STANDARD 23)
 add_executable(day1
         day1/day1.cpp
         shared/util.cpp)
+
+add_executable(day2
+        day2/day2.cpp
+        shared/util.cpp)
